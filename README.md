@@ -96,8 +96,8 @@ FROM energy_level
 ORDER BY 2 DESC
 ```
    
-5. Find tracks where the energy-to-liveness ratio is greater than 1.2.
-6. Calculate the cumulative sum of likes for tracks ordered by the number of views, using window functions.
+4. Find tracks where the energy-to-liveness ratio is greater than 1.2.
+5. Calculate the cumulative sum of likes for tracks ordered by the number of views, using window functions.
 
 ---
 
